@@ -1,0 +1,5 @@
+.env
+node_modules
+screenshot.pdf
+yarn-error.log
+.vscode
